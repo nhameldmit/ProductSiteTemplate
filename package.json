@@ -1,0 +1,22 @@
+{
+  "name": "product-site-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhameldmit/product-site-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhameldmit/product-site-template/issues"
+  },
+  "homepage": "https://github.com/nhameldmit/product-site-template#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
